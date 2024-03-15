@@ -1,4 +1,4 @@
 # Sufiyanphp
 This is my first GitHub repository. 
 <br>
-Author - Sufyan Siddiqui
+Author - Sufyan Ul Haq Siddiqui

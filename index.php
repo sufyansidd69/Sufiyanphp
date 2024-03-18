@@ -12,12 +12,14 @@
     <title>WEB PHP</title>
 </head>
 
-<body>
+<body><div class="container"></div>
+    <div class="row">
+        <div class="col-md-8">
     <form id="" name="" method="" action="addrecord.php">
         <h3>Add Record</h3>
         <div class="mb-3">
-            <label for="fName" class="form-label">Full Name</label>
-            <input type="text" class="form-control" name="fName" id="fName">
+            <label for="fname" class="form-label">Full Name</label>
+            <input type="text" class="form-control" name="fname" id="fname">
         </div>
         <div class="mb-3">
             <label for="CS" class="form-label">Cyber Security</label>

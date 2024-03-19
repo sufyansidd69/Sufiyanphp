@@ -63,6 +63,8 @@
                                     <th scope="col-md-6 mb-3">CP</th>
                                     <th scope="col-md-6 mb-3">Total</th>
                                     <th scope="col-md-6 mb-3">Persentage</th>
+                                    <th scope="col-md-6 mb-3">Grade</th>
+
                                 </tr>
                             </thead>
                             <tbody>
@@ -83,6 +85,7 @@
                 <td><?php echo $row['CP'];?></td>
                 <td><?php echo $row['Total']; ?></td>
                 <td><?php echo $row['per']; ?></td>
+                <td><?php echo $row['Grade']; ?></td>
             </tr>
 
             <?php 

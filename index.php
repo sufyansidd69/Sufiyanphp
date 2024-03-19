@@ -69,7 +69,7 @@
                             </thead>
                             <tbody>
                                 <?php 
-                                require "./assets/config/dbc.php"; 
+                                require "dbc.php"; 
                                 $sql="SELECT * From Account order by id desc";
             $result=mysqli_query($conn,$sql);
             $a=1;

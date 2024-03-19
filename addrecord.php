@@ -1,6 +1,6 @@
 <?php 
 #STEP 1
-require "../Sufiyanphp/assets/config/dbc.php" ;
+require "dbc.php" ;
 
 #STEP 2
 

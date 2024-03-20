@@ -41,7 +41,7 @@ VALUE('$fName', '$email', '$CS', '$OOP', '$DSA','$CP', '$tot','$per','$Grade' )"
 
 mysqli_query($conn, $sql);
 
-
+#STEP 4
 header("location:index.php");
 
 ?>
